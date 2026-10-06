@@ -140,8 +140,6 @@ Banking-Customer-Segmentation/
 ├── Screenshots/
 │   └── banking-dashboard.png
 │
-└── Documentation/
-    └── [optional project documentation]
 ```
 
 ---
